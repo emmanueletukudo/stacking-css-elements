@@ -40,6 +40,7 @@
     border-radius: 12px;
     transform: translateY(2px);
     background: #ced4da;
+    filter: blur(4px);
   }
   .edge {
     position: absolute;
