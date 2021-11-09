@@ -1,6 +1,6 @@
 ## Stacking CSS Elements
 
-To get started, clone the repository [!here](https://github.com/emmanueletukudo/stacking-css-elements).
+To get started, clone the repository [here](https://github.com/emmanueletukudo/stacking-css-elements).
 
 ### Folder structure
 - [With Position Property](https://github.com/emmanueletukudo/stacking-css-elements/tree/main/with_position_property)
